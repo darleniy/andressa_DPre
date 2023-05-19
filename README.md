@@ -5,7 +5,7 @@
 #ERROR
 Fetching gem metadata from https://rubygems.org/.
 You have requested:
-  listen ~> 3.2
+ listen ~> 3.2
 
 The bundle currently has listen locked at 3.1.5.
 Try running `bundle update listen`
